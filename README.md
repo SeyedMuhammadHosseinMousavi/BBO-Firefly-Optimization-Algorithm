@@ -1,4 +1,4 @@
-# BBO Firefly Optimization Algorithm
+[![View BBO Firefly Optimization Algorithm on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/105470-bbo-firefly-optimization-algorithm)# BBO Firefly Optimization Algorithm
 %% Hybrid Biogeography Based Optimization Firefly Algorithm - Created in 19 Jan 2022 by Seyed Muhammad Hossein Mousavi
 % The following lines of code, extracts 4 signal features, namely
 % 'EnergyEntropy', 'ShortTimeEnergy', 'SpectralCentroid' and 'SpectralFlux'
